@@ -1,0 +1,22 @@
+{
+  "name": "ajshw-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackseliger/ajshw-nodejs.git"
+  },
+  "author": "BlackSeliger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackseliger/ajshw-nodejs/issues"
+  },
+  "homepage": "https://github.com/blackseliger/ajshw-nodejs#readme",
+  "devDependencies": {
+    "@blackseliger/ajs": "1.0.0"
+  }
+}
